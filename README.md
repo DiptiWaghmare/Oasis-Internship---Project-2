@@ -1,4 +1,4 @@
-# Oasis-Internship---Project-2
+# Oasis-Internship---Task 1
 SPAM DETECTION 
 
 We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email
